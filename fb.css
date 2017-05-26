@@ -1,0 +1,25 @@
+#face{position:absolute;top:0px;left:0px;}
+.user{position:absolute;left:790px;width:140px;top:35px;padding:
+	2.5px;font-size:12px;border:1px solid black;}
+#email{color:white;position:absolute;left:790px;font-family:arial;font-size:12px;top:15px;cursor:pointer;width:180px;}
+.pword{position:absolute;left:953px;width:140px;top:35px;padding:2.5px;font-size:12px;border:1px solid black;}
+#pass{color:white;position:absolute;left:953px;width:140px;top:15px;font-family:arial;font-size:12px;cursor:pointer;}
+.button{position:absolute;left:1116px;top:34px;padding:3.2px;font-size:12px;border:1px solid #4169E1;background-color:#46659D;color:white;cursor:pointer;}
+#box{position:relative;top:22px;left:760px;width:400px;padding:2px;opacity:1;}
+#create{font-family:sans-serif;font-size:40px;font-weight:bold;opacity:1.0;color:#373737;}
+#free{font-family:sans-serif;font-size:20px;}
+#first{position:relative;top:40px;left:760px;width:550px;padding:0px;opacity:1;}
+#fname{position:relative;top:0px;left:0px;border:1px solid grey;font-size:19.8px;padding:6px;border-radius:5px;}
+#sname{position:relative;top:0px;left:8px;border:1px solid grey;font-size:19.8px;padding:6px;border-radius:5px;}
+#mob{position:relative;top:50px;left:760px;border:1px solid grey;font-size:19.8px;padding:6px;border-radius:5px;}
+#password{position:relative;top:60px;left:760px;border:1px solid grey;font-size:19.8px;padding:6px;border-radius:5px;}
+#para{position:relative;top:70px;left:560px;color:grey;padding-left:200px;width:575px;font-size:12px;font-family:sans-serif;}
+#acc{position:relative;left:760px;top:80px;padding-top:8px;padding-bottom:8px;padding-left:20px;padding-right:20px;font-size:20px;border:1px solid #4169E1;background-color:#5D9840;color:white;border:1px solid grey;border-radius:5px;font-family:sans-serif;cursor:pointer;}
+#last{position:relative;top:90px;left:760px;color:grey;font-size:16px;font-family:sans-serif;font-weight:bold;width:400px;}
+#forg{position:absolute;left:953px;font-family:arial;font-size:12px;top:50px;cursor:pointer;width:180px;}
+#empty{background-color:grey;position:relative;top:117px;left:140px;width:520px;height:20px;cursor:pointer;opacity:0.0;}
+#forg>a:link{color:#87A2BE;}
+#last>a:link{color:#4A649C;}
+#para>a,#forg>a,#last>a{text-decoration:none;}
+#para>a:link{color:#4A649C;}
+#para>a:hover,#forg>a:hover,#last>a:hover{text-decoration:underline;}
